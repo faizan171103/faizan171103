@@ -16,13 +16,13 @@ to understand.
 <p align="center">
   <a href="https://faizan171103.github.io/" style="
     display:inline-block;
-    padding:14px 32px;
+    padding:24px 60px;
     background-color:#06B6D4;
     color:#0F172A;
     font-weight:bold;
-    font-size:18px;
+    font-size:32px;
     text-decoration:none;
-    border-radius:8px;
+    border-radius:12px;
     font-family:sans-serif;
   ">
     🚀 VIEW MY PORTFOLIO
