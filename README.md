@@ -14,17 +14,21 @@ to understand.
 ## 🚀 Explore My Portfolio
 
 <p align="center">
-  <a href="https://faizan171103.github.io/">
-    <img 
-      src="./assets/data-analyst-banner.png"
-      alt="Mohd Faizanul Haque - Data Analyst Portfolio"
-      width="1200"
-    >
+  <a href="https://faizan171103.github.io/" style="
+    display:inline-block;
+    padding:14px 32px;
+    background-color:#06B6D4;
+    color:#0F172A;
+    font-weight:bold;
+    font-size:18px;
+    text-decoration:none;
+    border-radius:8px;
+    font-family:sans-serif;
+  ">
+    🚀 VIEW MY PORTFOLIO
   </a>
 </p>
 
-
-### 👉 [View My Full Data Analytics Portfolio](YOUR_PORTFOLIO_URL)
 
 **Dashboards • SQL Projects • Python Analysis • Business Insights**
 
