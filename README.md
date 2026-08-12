@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohd Faizanul Haque
 
-<!--
-**faizan171103/faizan171103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | SQL • Python • Power BI • Excel
 
-Here are some ideas to get you started:
+I turn raw data into **clear insights, interactive dashboards, and
+business-focused decisions.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data to uncover trends, identify opportunities,
+and build analytical solutions that make complex information easier
+to understand.
+
+---
+
+## 🚀 Explore My Portfolio
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="YOUR_BANNER_IMAGE_URL" alt="Mohd Faizanul Haque - Data Analyst Portfolio">
+  </a>
+</p>
+
+### 👉 [View My Full Data Analytics Portfolio](YOUR_PORTFOLIO_URL)
+
+**Dashboards • SQL Projects • Python Analysis • Business Insights**
+
+## 🧑‍💻 About Me
+
+- 🔎 Interested in turning data into actionable insights
+- 📊 Building interactive dashboards and analytical reports
+- 🐍 Using Python for data cleaning, analysis and visualization
+- 🗄️ Working with SQL for data extraction and transformation
+- 📈 Creating business dashboards with Power BI
+- 🧮 Using Excel for analysis, reporting and data exploration
+- 💡 Focused on solving real-world business problems with data
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
