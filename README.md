@@ -14,10 +14,15 @@ to understand.
 ## 🚀 Explore My Portfolio
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="YOUR_BANNER_IMAGE_URL" alt="Mohd Faizanul Haque - Data Analyst Portfolio">
+  <a href="https://faizan171103.github.io/">
+    <img 
+      src="./assets/data-analyst-banner.png"
+      alt="Mohd Faizanul Haque - Data Analyst Portfolio"
+      width="1200"
+    >
   </a>
 </p>
+
 
 ### 👉 [View My Full Data Analytics Portfolio](YOUR_PORTFOLIO_URL)
 
